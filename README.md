@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samruddhi deshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samruddhi deshpande" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samruddhi-deshpande-07b35519b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samruddhi deshpande" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/samruddhid412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samruddhid412" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samruddhi1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samruddhi1204" height="30" width="40" /></a>
 </p>
