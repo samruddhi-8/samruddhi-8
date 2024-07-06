@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ShopMe - Ecommerce Web App**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, AWS**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
